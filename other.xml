@@ -1,0 +1,53 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.9.0" last-modified="1534358458000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7288136" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.16750419" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.20140988" />
+    <property name="JpaViewFrameworkProvider:Module[2]" value="0.25252524" />
+    <property name="KEYMAP" value="commen&#10;intenti&#10;fix&#10;gene&#10;gener" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="ui&#10;mysql" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="SeaG&#10;format&#10;empresa&#10;pom&#10;autocompl" />
+    <property name="SettingsSearchHistory" value="export&#10;expo&#10;maven&#10;jpa" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="cucumberSupport.hidePassedTests" value="false" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/eclipse-workspace/Launcher&#10;C:/Users/Juan Ramirez/Documents/Proyectos/GeneradorRegExpAFD-master/PracticaTeoriaDeLenguajes&#10;C:/Users/Juan Ramirez/Documents/Proyectos/GeneradorRegExpAFD-master&#10;C:/Users/Juan Ramirez/Documents/Proyectos/Sedatram/src/main/resources&#10;C:/Users/Juan Ramirez/Documents/Proyectos/SedatramApp/view/src/main/java&#10;C:/Users/Juan Ramirez/Documents/Proyectos/appATC&#10;C:/Users/Juan Ramirez/Documents/Proyectos/appATC/.idea/appATC.iml&#10;C:/Users/Juan Ramirez/Documents/Proyectos/Webbing&#10;C:/Users/Juan Ramirez/Documents/Proyectos/appATC/pom.xml&#10;C:/Users/Juan Ramirez/Documents/Proyectos/ATCManager/pom.xml&#10;C:/Program Files/Java/jdk1.8.0_181&#10;C:/Users/Juan Ramirez/Documents/eclipse-workspace/ATCManager/pom.xml" />
+    <property name="file.gist.reindex.count" value="2857" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.imported.location" value="$USER_HOME$/Documents/Proyectos/appATC" />
+    <property name="lastTip" value="101" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="quick.doc.font.size" value="X_SMALL" />
+    <property name="search.everywhere.max.popup.width" value="640" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Blank Lines" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
